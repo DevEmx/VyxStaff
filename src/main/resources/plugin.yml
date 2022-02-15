@@ -1,0 +1,4 @@
+main: us.vyx.StaffMode
+name: VyxStaff
+version: ${project.version}
+author: DevEmx
