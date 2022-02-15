@@ -1,5 +1,5 @@
 # VyxStaff
-Staff plugin for Vyxmc developed by me
+Staff plugin for VyxMC Network developed by DevEmx
 
 
 ### Usage terms:
